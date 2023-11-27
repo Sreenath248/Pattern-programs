@@ -25,10 +25,8 @@ class crome1
 		}
 	}
 }
-/*
-D:\gecm24\patterns>javac crome1.java
 
-D:\gecm24\patterns>java crome1
+output:
         *
        ***
       *****
@@ -39,12 +37,10 @@ D:\gecm24\patterns>java crome1
  ***************
 *****************
 
-D:\gecm24\patterns>
+
 
 [Apply the if contitions]
-D:\gecm24\patterns>javac crome1.java
 
-D:\gecm24\patterns>java crome1
         *
        * *
       *   *
@@ -55,4 +51,3 @@ D:\gecm24\patterns>java crome1
  *             *
 *****************
 
-*/
