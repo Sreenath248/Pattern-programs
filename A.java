@@ -25,14 +25,8 @@ class A
 		
 	}
 }
-/*D:\>cd gecm24
 
-D:\gecm24>cd patterns
-
-D:\gecm24\patterns>javac A.java
-
-D:\gecm24\patterns>java A
-
+Output:
    1
   121
  12321
